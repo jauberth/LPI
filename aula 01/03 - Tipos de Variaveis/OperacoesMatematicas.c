@@ -8,21 +8,21 @@ int main(){
     //Soma
     printf("\n A soma de %d + %d = %d", a, b, a + b);
 
-    //Subtra��o
+    //Subtracao
     printf("\n A subtracao de %d - %d = %d", a, b, a - b);
 
-    //Multiplica��o
+    //Multiplicacao
     printf("\n A multiplicacao de %d * %d = %d", a, b, a * b);
 
-    //Divis�o
+    //Divisao
     printf("\n A divisao de %d / %d = %d", a, b, a / b);
 
-    //M�dulo
-    printf("\n O resto da divis�o de %d / %d = %d", a, b, a%b);
+    //Modulo
+    printf("\n O resto da divisao de %d / %d = %d", a, b, a%b);
 
     //Valor Absoluto
     printf("\n O valor absoluto de (-5) = %d ", abs(-5));
     printf("\n");
 
-   return o;
+   return 0;
 }
