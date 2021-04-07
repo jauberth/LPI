@@ -1,3 +1,11 @@
+//##############################################
+//# UESC                                       #
+//# LPI                                        #
+//# Jauberth w. Abijaude                       #
+//# jauberth@uesc.br                           #
+//##############################################
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

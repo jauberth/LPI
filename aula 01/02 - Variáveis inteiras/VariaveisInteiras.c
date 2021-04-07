@@ -10,7 +10,7 @@ int main(){
     //Pula para proxima linha
     printf("\n");
     //Imprime a mensagem
-    printf("Digite valor para b : ");
+    printf("Digite valor inteiro para b : ");
     //Aguarda a digitacao de um valor
     scanf("%d", &b);
     printf("\n");

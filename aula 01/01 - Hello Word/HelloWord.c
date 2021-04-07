@@ -6,7 +6,6 @@ void main(void){
 
     //Imprime mensagem na tela
     printf("Oi Turma! ");
-
-    //return 0;
-
+    printf("\nPressione uma tecla para continuar...");
+    getchar();
 }
